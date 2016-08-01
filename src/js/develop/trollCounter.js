@@ -1,9 +1,3 @@
-
-
-$(document).ready(function(){
-    $('.troll-counter').trollCounter();
-});
-
 (function($) {
 
     var defaults = {
@@ -56,3 +50,6 @@ $(document).ready(function(){
         }
     };
 })(jQuery);
+/**
+ * Created by nickolaygotsaliyk on 01.08.16.
+ */
